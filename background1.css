@@ -1,0 +1,329 @@
+.background1-container1 {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.background1-background {
+  width: 1440px;
+  height: 100px;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(255, 255, 255, 1);
+}
+.background1-navigation-list {
+  top: 43px;
+  left: 24px;
+  width: 624px;
+  height: 14px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.background1-item1 {
+  top: 0px;
+  left: 0px;
+  width: 145px;
+  height: 14px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.background1-link1 {
+  display: contents;
+}
+.background1-link2 {
+  top: 0px;
+  left: 0px;
+  width: 145px;
+  height: 14px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.background1-text10 {
+  top: -0.5px;
+  left: 16px;
+  color: rgba(13, 12, 34, 1);
+  width: 98px;
+  height: auto;
+  position: absolute;
+  font-size: 13.671875px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 14px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.background1-image1 {
+  top: 4px;
+  left: 119.58000183105469px;
+  width: 9px;
+  height: 8px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.background1-imagefill {
+  top: 0px;
+  left: 0px;
+  width: 9px;
+  height: 8px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.background1-image2 {
+  top: -0.05000000074505806px;
+  left: 0px;
+  width: 9px;
+  height: 8px;
+  position: absolute;
+}
+.background1-item2 {
+  top: 0px;
+  left: 144.5800018310547px;
+  width: 104px;
+  height: 14px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.background1-link3 {
+  top: 0px;
+  left: 0px;
+  width: 104px;
+  height: 14px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.background1-text12 {
+  top: -0.5px;
+  left: 16px;
+  color: rgba(13, 12, 34, 1);
+  width: 72px;
+  height: auto;
+  position: absolute;
+  font-size: 13.890625px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 14px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.background1-item3 {
+  top: 0px;
+  left: 248.1699981689453px;
+  width: 62px;
+  height: 14px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.background1-link4 {
+  top: 0px;
+  left: 0px;
+  width: 62px;
+  height: 14px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.background1-text14 {
+  top: -0.5px;
+  left: 16px;
+  color: rgba(13, 12, 34, 1);
+  width: 30px;
+  height: auto;
+  position: absolute;
+  font-size: 12.90625px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 14px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.background1-item4 {
+  top: 0px;
+  left: 310.3800048828125px;
+  width: 78px;
+  height: 14px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.background1-link5 {
+  top: 0px;
+  left: 0px;
+  width: 78px;
+  height: 14px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.background1-text16 {
+  top: -0.5px;
+  left: 16px;
+  color: rgba(13, 12, 34, 1);
+  width: 46px;
+  height: auto;
+  position: absolute;
+  font-size: 14px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 14px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.background1-link6 {
+  top: 30px;
+  left: 1236.780029296875px;
+  width: 39px;
+  height: 40px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.background1-text18 {
+  top: 5.5px;
+  color: rgba(13, 12, 34, 1);
+  width: 39px;
+  height: auto;
+  position: absolute;
+  font-size: 13.453125px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 28px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.background1-form {
+  top: 26px;
+  left: 967.97998046875px;
+  width: 245px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.background1-input {
+  top: 0px;
+  left: 0px;
+  width: 245px;
+  height: 48px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 10000000px;
+  background-color: rgba(244, 245, 251, 1);
+}
+.background1-container2 {
+  top: 15.5px;
+  left: 48px;
+  width: 173px;
+  height: 17px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.background1-text20 {
+  color: rgba(110, 109, 122, 1);
+  width: 54px;
+  height: auto;
+  position: absolute;
+  font-size: 13.125px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.background1-img {
+  top: 16px;
+  left: 24px;
+  width: 16px;
+  height: 16px;
+  position: absolute;
+}
+.background1-link7 {
+  top: 26px;
+  left: 1299.97998046875px;
+  width: 100px;
+  height: 48px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-color: rgba(13, 12, 34, 1);
+  border-style: solid;
+  border-width: 1px;
+  border-radius: 10000000px;
+  background-color: rgba(13, 12, 34, 1);
+}
+.background1-text22 {
+  top: 16.5px;
+  left: 25px;
+  color: rgba(255, 255, 255, 1);
+  width: 50px;
+  height: auto;
+  position: absolute;
+  font-size: 13.78125px;
+  font-style: Semi Bold;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 14px;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.background1-text24 {
+  top: 22.314208984375px;
+  left: 635.7613525390625px;
+  color: rgba(0, 0, 0, 1);
+  width: 114px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: italic;
+  text-align: left;
+  font-family: Inter;
+  font-weight: 700;
+  line-height: 14px;
+  font-stretch: normal;
+  text-decoration: none;
+}
